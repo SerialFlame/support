@@ -10,3 +10,6 @@ using-odin:
 customizing-odin:
   name: Customizing Odin
   description: Welcome to Odin, time to get started
+discord:
+  name: Discord
+  description: The SerialFlame Discord server
